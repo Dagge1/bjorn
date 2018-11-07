@@ -15,7 +15,7 @@ var app = new Vue({
     valuation: '',
     email: '',
     phone: '',
-		put: window.location.pathname  // relativni path stranice  		      
+    put: window.location.pathname  // relativni path stranice  		      
   },
   methods: {
     fetchAll: function() {  // izlistaj sve kompanije
