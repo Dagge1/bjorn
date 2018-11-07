@@ -1,4 +1,4 @@
-# bjorn
+# ABC
 Testing app
 
 Pokazni rad sa Vue front i Node / MySQL back 
